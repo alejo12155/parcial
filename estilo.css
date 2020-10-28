@@ -1,0 +1,357 @@
+.bienvenida{
+	align-content: center;
+	height: 500px; 
+	width: 900px;
+	margin-top: 50px; 
+	margin-left: 100px;
+	background-image: linear-gradient(purple, pink, purple, pink,purple);
+	border-radius: 20px;
+	padding: 25px;
+	align-content: center;
+}
+.cuadro2{
+	position: relative;
+	top: 20px;
+	left: 180px;
+	background: blue;
+	border:solid black 2px;
+	width: 110px;
+	height: 40px;
+	padding: 15px;
+	font-size: 20px;
+	color: white;
+
+
+}
+
+.b1{
+	margin-left:150px;
+}
+.cuadro3{
+	display: none;
+}
+
+.cuadro4{
+	display: block;
+	position: absolute;
+	top: 280px;
+	left: 10px;
+	background: black;
+	border:solid black 2px;
+	width: 400px;
+	height: 300px;
+	padding: 45px;
+	font-size: 20px;
+	color: white;
+}
+
+
+
+
+
+
+.cuadro5{
+	position: relative;
+	top: -50px;
+	left: 750px;
+	background: blue;
+	border:solid black 2px;
+	width: 110px;
+	height: 40px;
+	padding: 15px;
+	font-size: 20px;
+	color: white;
+
+
+}
+
+.b2{
+	margin-left:120px;
+}
+.cuadro6{
+	display: none;
+}
+
+.cuadro7{
+	display: block;
+	position: absolute;
+	top: 280px;
+	left: 600px;
+	background: black;
+	border:solid black 2px;
+	width: 350px;
+	height: 250px;
+	padding: 45px;
+	font-size: 20px;
+	color: white;
+}
+
+
+
+.cuadro8{
+	position: relative;
+	top: 400px;
+	left: 500px;
+	background: blue;
+	border:solid black 2px;
+	width: 110px;
+	height: 40px;
+	padding: 15px;
+	font-size: 20px;
+	color: white;
+
+
+}
+
+.b2{
+	margin-left:120px;
+}
+.cuadro9{
+	display: none;
+}
+
+.cuadro10{
+	display: block;
+	position: absolute;
+	top: 800px;
+	left: 350px;
+	background: black;
+	border:solid black 2px;
+	width: 350px;
+	height: 250px;
+	padding: 45px;
+	font-size: 20px;
+	color: white;
+}
+
+.a{
+
+	height: 500px; 
+	width: 920px;
+	margin-top: 15px; 
+	margin-left: 50px;
+	background-image: linear-gradient(gray, black, gray, white,gray);
+	border-radius: 20px;
+	padding: 25px;
+	align-content: center;
+}
+
+.gif{
+
+	width: 900px;
+	height: 400px;
+}
+
+.last{
+	width: 140px;
+	height: 50px;
+	background-color: black;
+	color: white;
+	font-size: 20px;
+	margin-left: 400px;
+	margin-top: 20px;
+
+}
+
+.welcome
+{
+	position: absolute;
+	margin-left: 180px;
+	margin-top: 125px;
+	width: 800px;
+}
+
+.bienvenida1{
+	height: 500px; 
+	width: -100px;
+	margin-top: -475px; 
+	margin-left: 100px;
+	background-color: black;
+	border-radius: 20px;
+}
+
+.b{
+	height: 325px; 
+	width: 900px;
+	margin-top: -425px; 
+	margin-left: 120px;
+	border-radius: 150px;
+	background-color: #570F5F;	
+	padding: 5px;
+	padding: gray;
+}
+
+.boton1{
+	margin-left: 550px;
+	margin-top: 10px;
+	width: 100px;
+	height: 50px;
+	background-color: #D0ADD4;
+
+
+}
+
+}
+.boton1 span {
+  position: relative;
+  display: block;
+  width:  1225px;
+  height: 557px;
+  	
+}
+.boton1:before,
+.boton1:after {
+  position: absolute;
+  content: "";
+  right: 40px;
+  top: 50px;
+  background: #874E6B;
+  transition:  0.9s ease;
+  border-radius: 20px;
+}
+.boton1:before {
+  height: 0px;
+  width: 25px;
+
+}
+.boton1:after {
+  width: 0px;
+  height: 30px;
+}
+.boton1:hover{
+   background: transparent;
+  box-shadow: inherit;
+}
+.boton1:hover:before {
+  height: 557px;
+}
+.boton1:hover:after {
+  width: 1225px;
+   
+}
+.boton1 span:hover{
+   color: white;
+    border-radius: 20px;
+}
+.boton1 span:before,
+.boton1 span:after {
+  position: absolute;
+  content: "";
+  left: 85px;
+  bottom: 80px;
+   background: #874E6B;
+  transition: all 0.9s ease;
+  border-radius: 20px;
+}
+.boton1 span:before {
+  width: 25px;
+  height: 0px;
+
+}
+.boton1 span:after {
+  width: 0px;
+  height: 30px;
+  
+}
+.boton1 span:hover:before {
+  height: 557px;
+
+}
+.boton1 span:hover:after {
+  width: 1225px;
+}
+
+
+
+
+
+.noda{ 
+	margin-left:950px;
+	margin-top: 110px;
+	width: 80px;
+	height: 30px;
+	background-color: #D0ADD4;
+
+
+}
+
+.noda2{ 
+	margin-left:950px;
+	margin-top: 15px;
+	width: 80px;
+	height: 30px;
+	background-color: #D0ADD4;
+
+}
+
+
+
+.m{
+   
+   font-size: 25px;
+   width: 200px;
+   height: 50px;
+
+}
+
+
+
+.o{
+
+  font-size: 25px;
+   width: 115px;
+   height: 50px;
+
+}
+
+.p1{
+
+	width: 250px;
+	height: 250px;
+	align-content: center;
+
+}
+
+#a1{
+	width: 400px;
+	height: 300px;
+}
+
+.p2{
+   	width: 200px;
+	height: 200px;
+	margin-top: -32px;
+	margin-left: 435px;
+
+}
+
+#a2{
+	width: 350px;
+	height: 240px;
+}
+
+
+
+.p3{
+	width: 250px;
+	height: 250px;
+	top: 1px;
+	position: absolute;
+	margin-left: 850px;
+}
+
+#a3{
+	width: 400px;
+	height: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
